@@ -13,7 +13,7 @@ This is a custom HTML5 video player that includes various features such as play/
 
 ## Demo 
 
-![Project Preview](https://github.com/papaguycodes/pure-css-progress-bar/blob/main/demo/purecss.png)
+![Project Preview](https://github.com/papaguycodes/html5-video-player/blob/main/html5vidplayer.png)
 
 You can also view the live demo of the video player by opening the `index.html` file in your browser.
 

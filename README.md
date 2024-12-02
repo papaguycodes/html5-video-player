@@ -29,24 +29,24 @@ git clone https://github.com/papaguycodes/html5-video-player.git
 
 ## Requirements
 
-    Modern web browser (Chrome, Firefox, Safari, Edge, etc.)
-    No external server is required; you can run it directly from your local file system.
+  - Modern web browser (Chrome, Firefox, Safari, Edge, etc.)
+  - No external server is required; you can run it directly from your local file system.
 
 ## Technologies Used
 
-    HTML5: The structure of the video player and page layout.
-    CSS3: Styling the player and its components.
-    JavaScript: Controls for player actions like play, pause, volume, speed, and fullscreen.
-    Ionicons: Used for icons in the control panel (e.g., play, pause, volume).
+   - **HTML5**: The structure of the video player and page layout.
+   - **CSS3**: Styling the player and its components.
+   - **JavaScript**: Controls for player actions like play, pause, volume, speed, and fullscreen.
+   - **Ionicons**: Used for icons in the control panel (e.g., play, pause, volume).
 
 ## Contributing
 
 Contributions are always welcome! If you have any suggestions, improvements, or issues with the player, feel free to open a pull request or an issue.
 
-    Fork the repository.
-    Create a new branch for your changes.
-    Commit your changes.
-    Push to the branch and open a pull request.
+   - Fork the repository.
+   - Create a new branch for your changes.
+   - Commit your changes.
+   - Push to the branch and open a pull request.
 
 ## License
 
